@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hypixeltools",
+  "name": "Hypixel Tools Mod",
+  "description": "A mod that is designed to improve the hypixel experience. Visit the mod's webpage to learn about the various features within this mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://themindofminecraft.com/hypixeltools",
+  "updateUrl": "themindofminecraft.com/hypixeltools",
+  "authorList": ["MindMC"],
+  "credits": "kerbybit, 2PI, skyerzz",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
